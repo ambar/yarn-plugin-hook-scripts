@@ -4,6 +4,9 @@
   "description": "Life cycle scripts for yarn berry (2+)",
   "license": "MIT",
   "main": "index.js",
+  "files": [
+    "index.js"
+  ],
   "scripts": {
     "yarn:afterAllInstalled": "echo afterAllInstalled"
   },
